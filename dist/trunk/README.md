@@ -1,13 +1,13 @@
 # Posts 2 Posts API #
-Tags: 
-Donate link: 
-**Contributors:** [jhotadhari](https://profiles.wordpress.org/jhotadhari)  
-**Tested up to:** 4.9.7  
-**Requires at least:** 4.7  
-**Requires PHP:** 5.6  
-**Stable tag:** trunk  
-**License:** GNU General Public License v2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Tags:** p2p,rest,api,connections,relationships
+**Donate link:** https://waterproof-webdesign.info/donate
+**Contributors:** [jhotadhari](https://profiles.wordpress.org/jhotadhari)
+**Tested up to:** 4.9.7
+**Requires at least:** 4.7
+**Requires PHP:** 5.6
+**Stable tag:** trunk
+**License:** GNU General Public License v2 or later
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 REST API extension for Posts 2 Posts plugin
 
@@ -26,7 +26,7 @@ REST API extension for Posts 2 Posts plugin
 The Posts 2 Posts API Plugin provides API routes and endpoints for Connection-Types and Connections registered by [Posts 2 Posts](https://github.com/scribu/wp-posts-to-posts) Plugin.
 
 
-> Posts 2 Posts Api on [GitHub](https://github.com/jhotadhari/posts-2-posts-api)
+> Posts 2 Posts API on [GitHub](https://github.com/jhotadhari/posts-2-posts-api)
 
 > This Plugin is happy for contribution, sponsorship or [donations](http://waterproof-webdesign.info/donate)
 
