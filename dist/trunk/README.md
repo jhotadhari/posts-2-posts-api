@@ -1,4 +1,18 @@
-== Description ==
+# Posts 2 Posts API #
+Tags: 
+Donate link: 
+**Contributors:** [jhotadhari](https://profiles.wordpress.org/jhotadhari)  
+**Tested up to:** 4.9.7  
+**Requires at least:** 4.7  
+**Requires PHP:** 5.6  
+**Stable tag:** trunk  
+**License:** GNU General Public License v2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+
+REST API extension for Posts 2 Posts plugin
+
+
+## Description ##
 
 REST API extension for Posts 2 Posts plugin
 
@@ -18,7 +32,7 @@ The Posts 2 Posts API Plugin provides API routes and endpoints for Connection-Ty
 
 
 
-= Routes =
+### Routes ###
 
 Access Posts 2 Posts API’s index by making a GET request to https://example-site.com/wp-json/p2papi/v1.
 The index provides information regarding what routes are available, along with what HTTP methods are supported, what endpoints are registered and the endpoints arguments.
@@ -51,7 +65,7 @@ List of routes and supported crud actions:
 
 This Plugin is generated with [generator-pluginboilerplate version 1.2.0](https://github.com/jhotadhari/generator-pluginboilerplate)
 
-== Installation ==
+## Installation ##
 Upload and install this Plugin the same way you'd install any other plugin.
 
 ### Requirements:
@@ -60,8 +74,18 @@ Upload and install this Plugin the same way you'd install any other plugin.
 
 If the Plugin is not available in the official WordPress Plugin Repository, you will find the [latest distributed version in its github repository: ./dist/trunk/](https://github.com/jhotadhari/posts-2-posts-api/tree/master/dist/trunk). Copy the ./dist/trunk/ folder, rename it to 'posts-2-posts-api' and upload it to your WordPress plugin directory.
 
-== Screenshots ==
+## Screenshots ##
 
-== Upgrade Notice ==
+## Upgrade Notice ##
 
 This Plugin is still in early development. Reality might be in movement.
+
+
+## Changelog ##
+
+0.0.1
+* added plugin dependency for p2p;
+* added basic controller for p2p connection types;
+* added basic controller for p2p connections;
+* edited readme;
+

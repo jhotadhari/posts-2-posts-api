@@ -1,5 +1,11 @@
 {
-	"next":[
-	""
-	]
+  "next": [
+    ""
+  ],
+  "0.0.1": [
+    "* added plugin dependency for p2p;",
+    "* added basic controller for p2p connection types;",
+    "* added basic controller for p2p connections;",
+    "* edited readme;"
+  ]
 }

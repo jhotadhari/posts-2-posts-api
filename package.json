@@ -5,7 +5,7 @@
   "uri": "https://github.com/jhotadhari/posts-2-posts-api",
   "textDomain": "posts-2-posts-api",
   "domainPath": "/languages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "REST API extension for Posts 2 Posts plugin",
   "main": "index.js",
   "scripts": {
