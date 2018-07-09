@@ -12,7 +12,7 @@ REST API extension for Posts 2 Posts plugin
 The Posts 2 Posts API Plugin provides API routes and endpoints for Connection-Types and Connections registered by [Posts 2 Posts](https://github.com/scribu/wp-posts-to-posts) Plugin.
 
 
-> Posts 2 Posts Api on [GitHub](https://github.com/jhotadhari/posts-2-posts-api)
+> Posts 2 Posts API on [GitHub](https://github.com/jhotadhari/posts-2-posts-api)
 
 > This Plugin is happy for contribution, sponsorship or [donations](http://waterproof-webdesign.info/donate)
 
